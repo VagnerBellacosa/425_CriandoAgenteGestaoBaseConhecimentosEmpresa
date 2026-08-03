@@ -45,3 +45,9 @@ aEntendendo o Desafio
 ###### Felipe Aguiar
 
 Tech Educator, DIO[**](https://web.dio.me/project/criando-um-agente-de-gestao-de-base-de-conhecimentos-de-uma-empresa/learning/www.linkedin.com/in/felipeaguiar-exe) [**](https://github.com/felipeAguiarCode)
+
+ [README.md](..\README.md) 
+
+C:\Users\vagne\Documentos\GitHub\425_CriandoAgenteGestaoBaseConhecimentosEmpresa\WorkInProgress
+
+https://web.dio.me/project/criando-um-agente-de-gestao-de-base-de-conhecimentos-de-uma-empresa/learning/e1d4aeec-1f5d-45fd-94c9-5168316725d2?back=/track/nublify-primeiros-passos-em-ia-e-cloud
